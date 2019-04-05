@@ -8,4 +8,12 @@
 
 **Link to work:** 
 
+### Day 2: April 05, 2019
+
+**Today's Progress**: Worked on PHP files regarding website and get to know XAMPP.
+
+**Thoughts:** It Had been tough to work on php,still some errors needed to fix.
+
+**Link to work:** 
+
 
