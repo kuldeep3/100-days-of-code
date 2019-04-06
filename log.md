@@ -6,7 +6,7 @@
 
 **Thoughts:** It Had been quite encouraging and exciting to work on this project. Hope to complete it ASAP.
 
-**Link to work:** 
+**Link to work:** https://github.com/kuldeep3/Kaivalya
 
 ### Day 2: April 05, 2019
 
@@ -14,6 +14,14 @@
 
 **Thoughts:** It Had been fun to work on php,still some errors needed to fix.
 
-**Link to work:** 
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
+### Day 3: April 06, 2019
+
+**Today's Progress**: Made some changes in the files and remove PHP content.
+
+**Thoughts:** Still,there's a lot to do on the same.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
 
 
