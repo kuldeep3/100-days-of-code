@@ -9,3 +9,6 @@ Started to built multiple pages for a website using HTML,CSS,Bootstrap 4.0,javas
 
 ### R1D2
 Done some work on php files and uses XAMPP for creating server and learn various commands.
+
+### R1D3
+uploaded the work on github.
