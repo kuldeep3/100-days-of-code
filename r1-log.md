@@ -12,3 +12,20 @@ Done some work on php files and uses XAMPP for creating server and learn various
 
 ### R1D3
 uploaded the work on github.
+
+### R1D4
+made some changes on the repository.
+
+### R1D5
+made some changes on the repository.
+
+### R1D6
+made some changes on the repository.
+
+### R1D7
+made some changes on the repository.
+
+### R1D8
+made some changes on the repository.
+
+
