@@ -24,4 +24,44 @@
 
 **Link to work:** https://github.com/kuldeep3/Kaivalya
 
+### Day 4: April 07, 2019
+
+**Today's Progress**: Made some changes in the files.
+
+**Thoughts:** Still,there's a lot to do on the same.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
+### Day 5: April 08, 2019
+
+**Today's Progress**: Made some changes in the files.
+
+**Thoughts:** Still,there's a lot to do on the same.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
+### Day 6: April 09, 2019
+
+**Today's Progress**: Made some changes in the files.
+
+**Thoughts:** Still,there's a lot to do on the same.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
+### Day 7: April 10, 2019
+
+**Today's Progress**: Made some changes in the files.
+
+**Thoughts:** Still,there's a lot to do on the same.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
+### Day 8: April 11, 2019
+
+**Today's Progress**: Made some changes in the files.
+
+**Thoughts:** Still,there's a lot to do on the same.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
 
