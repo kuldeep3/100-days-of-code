@@ -64,4 +64,12 @@
 
 **Link to work:** https://github.com/kuldeep3/Kaivalya
 
+### Day 9: April 12, 2019
+
+**Today's Progress**: Made some changes in the individual webpages.
+
+**Thoughts:** Still,there's a lot to do on the same.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
 
