@@ -72,4 +72,13 @@
 
 **Link to work:** https://github.com/kuldeep3/Kaivalya
 
+### Day 10: April 13, 2019
+
+**Today's Progress**: Introduce some new pages to the websites.
+
+**Thoughts:** Still,there's a lot to do on the same.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
+
 
