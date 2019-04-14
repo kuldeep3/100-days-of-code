@@ -80,5 +80,13 @@
 
 **Link to work:** https://github.com/kuldeep3/Kaivalya
 
+### Day 11: April 14, 2019
+
+**Today's Progress**: Introduce new registration form for event "geekshub"
+
+**Thoughts:** Still,there's a lot to do on the same.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
 
 
