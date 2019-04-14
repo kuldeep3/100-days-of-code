@@ -34,4 +34,7 @@ made some changes on the webpages.
 ### R1D10
 introduce new pages for website.
 
+### R1D11
+introduce registration page for event "geekshub".
+
 
