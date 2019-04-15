@@ -37,4 +37,7 @@ introduce new pages for website.
 ### R1D11
 introduce registration page for event "geekshub".
 
+### R1D12
+introduce new page named "presentech".
+
 
