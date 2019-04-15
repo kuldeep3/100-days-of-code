@@ -88,5 +88,13 @@
 
 **Link to work:** https://github.com/kuldeep3/Kaivalya
 
+### Day 12: April 15, 2019
+
+**Today's Progress**: Introduce new page named "presentech".
+
+**Thoughts:** Still,there's a lot to do on the same.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
 
 
