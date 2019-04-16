@@ -96,5 +96,13 @@
 
 **Link to work:** https://github.com/kuldeep3/Kaivalya
 
+### Day 13: April 16, 2019
+
+**Today's Progress**: Introduce new page named "Blind".
+
+**Thoughts:** Still,there's a lot to do on the same.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
 
 
