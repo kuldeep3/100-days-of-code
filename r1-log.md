@@ -40,4 +40,7 @@ introduce registration page for event "geekshub".
 ### R1D12
 introduce new page named "presentech".
 
+### R1D13
+introduce new page named "blind".
+
 
