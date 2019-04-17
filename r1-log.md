@@ -43,4 +43,7 @@ introduce new page named "presentech".
 ### R1D13
 introduce new page named "blind".
 
+### R1D14
+introduced various pages to website.
+
 
