@@ -102,7 +102,16 @@
 
 **Thoughts:** Still,there's a lot to do on the same.
 
+**Link to work:** https://github.com/kuldeep3/
+
+### Day 14: April 17, 2019
+
+**Today's Progress**: Introduce various pages to websites.
+
+**Thoughts:** Still,there's a lot to do on the same.
+
 **Link to work:** https://github.com/kuldeep3/Kaivalya
+
 
 
 
