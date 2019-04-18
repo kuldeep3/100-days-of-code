@@ -112,6 +112,14 @@
 
 **Link to work:** https://github.com/kuldeep3/Kaivalya
 
+### Day 15: April 18, 2019
+
+**Today's Progress**: Introduce various pages to websites.
+
+**Thoughts:** Just backend left.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
 
 
 
