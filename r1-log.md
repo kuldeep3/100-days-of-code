@@ -49,4 +49,6 @@ introduced various pages to website.
 ### R1D15
 introduced various pages to website.
 
+### R1D16
+Frontend finished.
 
