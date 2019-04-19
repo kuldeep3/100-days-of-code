@@ -52,3 +52,6 @@ introduced various pages to website.
 ### R1D16
 Frontend finished.
 
+### R1D17
+login page.
+
