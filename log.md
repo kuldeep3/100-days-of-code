@@ -120,6 +120,13 @@
 
 **Link to work:** https://github.com/kuldeep3/Kaivalya
 
+### Day 16: April 19, 2019
+
+**Today's Progress**: Finally, website completed(frontend).
+
+**Thoughts:** Just backend left.
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
 
 
 
