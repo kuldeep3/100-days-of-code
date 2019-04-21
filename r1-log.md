@@ -55,3 +55,6 @@ Frontend finished.
 ### R1D17
 login page.
 
+### R1D18
+new pages to repository.
+
