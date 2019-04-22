@@ -144,5 +144,13 @@
 
 **Link to work:** https://github.com/kuldeep3/Kaivalya
 
+### Day 19: April 22, 2019
+
+**Today's Progress**: Added some pages to the websites.
+
+**Thoughts:** easy stuff
+
+**Link to work:** https://github.com/kuldeep3/Kaivalya
+
 
 
